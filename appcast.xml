@@ -1,15 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
-        <title>app</title>
+        <title>KCP StockFlow</title>
         <description>Most recent updates to app</description>
         <language>en</language>
         <item>
             <title>Version 1.0.0+2</title>
-            <pubDate>Thu, 25 Jun 2026 23:31:53 +0800</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/KALuxCreative/kcp_stockflow-updates/refs/heads/main/kcp_stockflow.exe"
-                       sparkle:dsaSignature="MDwCHFUYA0S2Z+0SPTagcK6s0LyQyI0t+D5xmeIdRMcCHE0sb09XpW+tPCo7xmPZ
-+7Pcw7kmEPR2vq35brw="
+            <sparkle:releaseNotesLink>
+                https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+2/release_notes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Fri, 26 Jun 2026 01:36:26 +0800</pubDate>
+            <enclosure url="https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+2/KCP%20StockFlow%20v1.0.0+2.exe"
+                       sparkle:dsaSignature="MD0CHQCexd9GWDlH4t4wlQDoYOz3HSXTCJUSi1u1PYRhAhwkTQGnEpuQ2GKx5HHX
+y6nrsTCzUeij27tD0b17"
                        sparkle:version="1.0.0+2"
                        sparkle:os="windows"
                        length="0"
