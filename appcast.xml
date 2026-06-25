@@ -7,7 +7,7 @@
         <item>
             <title>Version 1.0.0+2</title>
             <pubDate>Thu, 25 Jun 2026 23:31:53 +0800</pubDate>
-            <enclosure url="https://localhost:7280/download/client_side.exe"
+            <enclosure url="https://raw.githubusercontent.com/KALuxCreative/kcp_stockflow-updates/refs/heads/main/kcp_stockflow.exe"
                        sparkle:dsaSignature="MDwCHFUYA0S2Z+0SPTagcK6s0LyQyI0t+D5xmeIdRMcCHE0sb09XpW+tPCo7xmPZ
 +7Pcw7kmEPR2vq35brw="
                        sparkle:version="1.0.0+2"
