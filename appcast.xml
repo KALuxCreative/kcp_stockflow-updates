@@ -7,7 +7,7 @@
         <item>
             <title>Version 1.0.0+2</title>
             <sparkle:releaseNotesLink>
-                https://github.com/KALuxCreative/kcp-stockflow-updates/blob/main/v1.0.0%2B2/release_notes.html
+                http://htmlpreview.github.io/?https://github.com/KALuxCreative/kcp-stockflow-updates/blob/main/v1.0.0%2B2/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Fri, 26 Jun 2026 02:48:09 +0800</pubDate>
             <enclosure url="https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+2/KCP%20StockFlow%20v1.0.0+2.exe"
