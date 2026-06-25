@@ -5,12 +5,12 @@
         <description>Most recent updates to app</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.0+1</title>
-            <pubDate>Thu, 25 Jun 2026 23:15:22 +0800</pubDate>
+            <title>Version 1.0.0+2</title>
+            <pubDate>Thu, 25 Jun 2026 23:31:53 +0800</pubDate>
             <enclosure url="https://localhost:7280/download/client_side.exe"
-                       sparkle:dsaSignature="MD4CHQCtIqprsEfm9vkJAf1L9nfA4cQ5bHEGhCPPhmx0Ah0AywUXZ27tXt2lHZis
-qWOLLvEyhdoM0DD0aag+FA=="
-                       sparkle:version="1.0.0+1"
+                       sparkle:dsaSignature="MDwCHFUYA0S2Z+0SPTagcK6s0LyQyI0t+D5xmeIdRMcCHE0sb09XpW+tPCo7xmPZ
++7Pcw7kmEPR2vq35brw="
+                       sparkle:version="1.0.0+2"
                        sparkle:os="windows"
                        length="0"
                        type="application/octet-stream"
