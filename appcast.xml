@@ -5,12 +5,12 @@
         <description>Most recent updates to app</description>
         <language>en</language>
         <item>
-            <title>Version 1.0.0+1</title>
+            <title>Version 1.0.0+2</title>
             <sparkle:releaseNotesLink>
-                https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+1/release_notes.html
+                https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+2/release_notes.html
             </sparkle:releaseNotesLink>
             <pubDate>Fri, 26 Jun 2026 01:38:32 +0800</pubDate>
-            <enclosure url="https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+1/KCP%20StockFlow%20v1.0.0+1.exe"
+            <enclosure url="https://raw.githubusercontent.com/KALuxCreative/kcp-stockflow-updates/refs/heads/main/v1.0.0+2/KCP%20StockFlow%20v1.0.0+2.exe"
                        sparkle:dsaSignature="MD4CHQCjKNC4ZDn3PIUP0i0ABxnBTE4RfA2+Oef1FYugAh0AyvnJiT2NGZLFTNt+BfcPPOEDXIIJofzGkhFONg=="
                        sparkle:version="1.0.0+1"
                        sparkle:os="windows"
